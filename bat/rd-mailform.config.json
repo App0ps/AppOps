@@ -1,8 +1,8 @@
 {
   "useSmtp": false,
-  "host": "stmp.gmail.com",
+  "host": "mail.privateemail.com",
   "port": 465,
-  "username": "demo@gmail.com",
-  "password": "demopassword",
-  "recipientEmail": "demo@gmail.com"
+  "username": "admin@appops.net",
+  "password": "Jup1t3r",
+  "recipientEmail": "admin@appops.net"
 }
