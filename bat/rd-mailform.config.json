@@ -1,5 +1,5 @@
 {
-  "useSmtp": false,
+  "useSmtp": true,
   "host": "mail.privateemail.com",
   "port": 465,
   "username": "admin@appops.net",
